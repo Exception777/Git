@@ -10,6 +10,9 @@ public class GitTest {
         System.out.println("master git test");
         System.out.println("hello git");
         System.out.println("pull git test");
+        System.out.println("pull git test");
+        System.out.println("pull git test");
+        System.out.println("pull git test");
     }
 
 
